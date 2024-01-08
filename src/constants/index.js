@@ -1,6 +1,6 @@
 import { meta, shopify, starbucks, tesla } from "../assets/images";
 import {
-    car,
+    chat,
     contact,
     css,
     estate,
@@ -19,7 +19,7 @@ import {
     react,
     redux,
     sass,
-    snapgram,
+    youtube,
     summiz,
     tailwindcss,
     threads,
@@ -173,7 +173,7 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/rakhmatov-kamoliddin',
     },
     {
         name: 'LinkedIn',
@@ -184,39 +184,39 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: pricewise,
+        iconUrl: chat,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Realtime Chat App',
+        description: '"Experience instant communication with our React-based chat app. Enjoy real-time messaging, dynamic updates, and a user-friendly interface—all designed for seamless chats with friends or colleagues."',
+        link: 'https://github.com/rakhmatov-kamoliddin/ChatNow',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Full Stack Threads Clone',
         description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        link: 'https://github.com/rakhmatov-kamoliddin/Thread',
     },
     {
-        iconUrl: car,
+        iconUrl: summiz,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        name: 'An AI Powered ThreeJs App',
+        description: 'Experience instant communication with our React-based chat app.',
+        link: 'https://github.com/rakhmatov-kamoliddin/An-AI-Powered-ThreeJS-App',
     },
     {
-        iconUrl: snapgram,
+        iconUrl: youtube,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Full Stack YouTube Clone',
+        description: "Enjoy a familiar and user-friendly interface that seamlessly replicates the world's leading video-sharing platform",
+        link: 'https://github.com/rakhmatov-kamoliddin/react_youtube_clone',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
         name: 'Real-Estate Application',
         description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
+        link: 'https://github.com/rakhmatov-kamoliddin/Full-Stack-Home-Rental-App-using-Next.js',
     },
     {
         iconUrl: summiz,
